@@ -33,7 +33,7 @@ header {
  margin-bottom: 10px;
 }
 
-.magic_button {
+.button {
 	background-color: green;
 	border-radius:110px;
 	display:inline-block;
